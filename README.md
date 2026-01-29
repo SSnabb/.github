@@ -1,6 +1,6 @@
 <h1 align="center">🔒 SSnabb - Secure & Fast</h1>
 
-[Roadmap](../ROADMAP.md)
+[Roadmap](ROADMAP.md)
    
 We are
 - an opensource project. 📖
@@ -27,8 +27,8 @@ With encryption and backup functions that you can define yourself.
 Please report issues or feature improvements to the respective repository. For new ideas plese create an issue [here](https://github.com/SSnabb/.github/issues).
 
 All projects of this organisation follow these guidelines:
-- [Contributing](../CONTRIBUTING.md)
-- [Security](../SECURITY.md)
-- [LICENSE](../LICENSE)
+- [Contributing](CONTRIBUTING.md)
+- [Security](SECURITY.md)
+- [LICENSE](LICENSE)
 
 <h6 align="center">Sponsored by <a href="https://lechner-systems.at/">Lechner-Systems</a>!</h6>
